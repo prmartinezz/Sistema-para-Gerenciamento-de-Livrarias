@@ -1,0 +1,6 @@
+br\com\martinez\sistemagerenciamentolivrarias\model\EnderecoCliente.class
+br\com\martinez\sistemagerenciamentolivrarias\Main.class
+br\com\martinez\sistemagerenciamentolivrarias\model\CadastroCliente.class
+br\com\martinez\sistemagerenciamentolivrarias\model\Vendas.class
+br\com\martinez\sistemagerenciamentolivrarias\model\FormaPagamento.class
+br\com\martinez\sistemagerenciamentolivrarias\model\Livro.class
